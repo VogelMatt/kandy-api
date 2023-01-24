@@ -70,5 +70,127 @@
       "quantity ": 10,
       "locationId": 10
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Corsica",
+      "typeId": 1,
+      "price": "$0.78"
+    },
+    {
+      "id": 2,
+      "name": "Gemini",
+      "typeId": 2,
+      "price": "$4.05"
+    },
+    {
+      "id": 3,
+      "name": "Cooper",
+      "typeId": 3,
+      "price": "$4.01"
+    },
+    {
+      "id": 4,
+      "name": "Suburban 1500",
+      "typeId": 4,
+      "price": "$0.06"
+    },
+    {
+      "id": 5,
+      "name": "M Roadster",
+      "typeId": 5,
+      "price": "$2.15"
+    },
+    {
+      "id": 6,
+      "name": "G-Class",
+      "typeId": 6,
+      "price": "$2.49"
+    },
+    {
+      "id": 7,
+      "name": "Villager",
+      "typeId": 7,
+      "price": "$5.75"
+    },
+    {
+      "id": 8,
+      "name": "GTO",
+      "typeId": 8,
+      "price": "$9.79"
+    },
+    {
+      "id": 9,
+      "name": "MX-5",
+      "typeId": 9,
+      "price": "$4.64"
+    },
+    {
+      "id": 10,
+      "name": "900",
+      "typeId": 10,
+      "price": "$0.44"
+    },
+    {
+      "id": 11,
+      "name": "Suburban 2500",
+      "typeId": 11,
+      "price": "$1.75"
+    },
+    {
+      "id": 12,
+      "name": "Envoy XL",
+      "typeId": 12,
+      "price": "$7.23"
+    },
+    {
+      "id": 13,
+      "name": "530",
+      "typeId": 13,
+      "price": "$6.53"
+    },
+    {
+      "id": 14,
+      "name": "Land Cruiser",
+      "typeId": 14,
+      "price": "$5.45"
+    },
+    {
+      "id": 15,
+      "name": "Cougar",
+      "typeId": 15,
+      "price": "$2.56"
+    },
+    {
+      "id": 16,
+      "name": "Rio",
+      "typeId": 16,
+      "price": "$1.38"
+    },
+    {
+      "id": 17,
+      "name": "Nitro",
+      "typeId": 17,
+      "price": "$9.32"
+    },
+    {
+      "id": 18,
+      "name": "Entourage",
+      "typeId": 18,
+      "price": "$2.79"
+    },
+    {
+      "id": 19,
+      "name": "Ram 50",
+      "typeId": 19,
+      "price": "$9.84"
+    },
+    {
+      "id": 20,
+      "name": "Elantra",
+      "typeId": 20,
+      "price": "$6.53"
+    }
   ]
 }
