@@ -192,5 +192,42 @@
       "typeId": 20,
       "price": "$6.53"
     }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "userId": 1,
+      "startDate": "07/21/2022",
+      "payRate": "$2.96",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "startDate": "05/13/2022",
+      "payRate": "$3.49",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "startDate": "10/22/2022",
+      "payRate": "$1.08",
+      "locationId": 3
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "startDate": "05/09/2022",
+      "payRate": "$3.15",
+      "locationId": 4
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "startDate": "08/23/2022",
+      "payRate": "$5.49",
+      "locationId": 5
+    }
   ]
 }
