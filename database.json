@@ -1,0 +1,74 @@
+{
+  "purchases": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 1,
+      "quantity ": 1,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "productId": 2,
+      "quantity ": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "productId": 3,
+      "quantity ": 3,
+      "locationId": 3
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "productId": 4,
+      "quantity ": 4,
+      "locationId": 4
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "productId": 5,
+      "quantity ": 5,
+      "locationId": 5
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "productId": 6,
+      "quantity ": 6,
+      "locationId": 6
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "productId": 7,
+      "quantity ": 7,
+      "locationId": 7
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "productId": 8,
+      "quantity ": 8,
+      "locationId": 8
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "productId": 9,
+      "quantity ": 9,
+      "locationId": 9
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "productId": 10,
+      "quantity ": 10,
+      "locationId": 10
+    }
+  ]
+}
