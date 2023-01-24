@@ -1,196 +1,171 @@
 {
-  "purchases": [
+  "users": [
     {
       "id": 1,
-      "userId": 1,
-      "productId": 1,
-      "quantity ": 1,
-      "locationId": 1
+      "name": "Elfrieda Ybarra",
+      "email": "eybarra0@odnoklassniki.ru",
+      "isStaff": false
     },
     {
       "id": 2,
-      "userId": 2,
-      "productId": 2,
-      "quantity ": 2,
-      "locationId": 2
+      "name": "Britt Spilsbury",
+      "email": "bspilsbury1@ed.gov",
+      "isStaff": true
     },
     {
       "id": 3,
-      "userId": 3,
-      "productId": 3,
-      "quantity ": 3,
-      "locationId": 3
+      "name": "Durante Boecke",
+      "email": "dboecke2@wikispaces.com",
+      "isStaff": false
     },
     {
       "id": 4,
-      "userId": 4,
-      "productId": 4,
-      "quantity ": 4,
-      "locationId": 4
+      "name": "Sibylle Hacker",
+      "email": "shacker3@taobao.com",
+      "isStaff": false
     },
     {
       "id": 5,
-      "userId": 5,
-      "productId": 5,
-      "quantity ": 5,
-      "locationId": 5
+      "name": "Tricia Aistrop",
+      "email": "taistrop4@purevolume.com",
+      "isStaff": true
     },
     {
       "id": 6,
-      "userId": 6,
-      "productId": 6,
-      "quantity ": 6,
-      "locationId": 6
+      "name": "Laurianne Ayton",
+      "email": "layton5@deviantart.com",
+      "isStaff": false
     },
     {
       "id": 7,
-      "userId": 7,
-      "productId": 7,
-      "quantity ": 7,
-      "locationId": 7
+      "name": "Helga Spira",
+      "email": "hspira6@smugmug.com",
+      "isStaff": false
     },
     {
       "id": 8,
-      "userId": 8,
-      "productId": 8,
-      "quantity ": 8,
-      "locationId": 8
+      "name": "Tyler Baselli",
+      "email": "tbaselli7@delicious.com",
+      "isStaff": true
     },
     {
       "id": 9,
-      "userId": 9,
-      "productId": 9,
-      "quantity ": 9,
-      "locationId": 9
+      "name": "Cookie Brackley",
+      "email": "cbrackley8@ask.com",
+      "isStaff": false
     },
     {
       "id": 10,
-      "userId": 10,
-      "productId": 10,
-      "quantity ": 10,
-      "locationId": 10
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Corsica",
-      "typeId": 1,
-      "price": "$0.78"
-    },
-    {
-      "id": 2,
-      "name": "Gemini",
-      "typeId": 2,
-      "price": "$4.05"
-    },
-    {
-      "id": 3,
-      "name": "Cooper",
-      "typeId": 3,
-      "price": "$4.01"
-    },
-    {
-      "id": 4,
-      "name": "Suburban 1500",
-      "typeId": 4,
-      "price": "$0.06"
-    },
-    {
-      "id": 5,
-      "name": "M Roadster",
-      "typeId": 5,
-      "price": "$2.15"
-    },
-    {
-      "id": 6,
-      "name": "G-Class",
-      "typeId": 6,
-      "price": "$2.49"
-    },
-    {
-      "id": 7,
-      "name": "Villager",
-      "typeId": 7,
-      "price": "$5.75"
-    },
-    {
-      "id": 8,
-      "name": "GTO",
-      "typeId": 8,
-      "price": "$9.79"
-    },
-    {
-      "id": 9,
-      "name": "MX-5",
-      "typeId": 9,
-      "price": "$4.64"
-    },
-    {
-      "id": 10,
-      "name": "900",
-      "typeId": 10,
-      "price": "$0.44"
+      "name": "Emalee Kryzhov",
+      "email": "ekryzhov9@angelfire.com",
+      "isStaff": true
     },
     {
       "id": 11,
-      "name": "Suburban 2500",
-      "typeId": 11,
-      "price": "$1.75"
+      "name": "Leslie Bonhan",
+      "email": "lbonhana@microsoft.com",
+      "isStaff": true
     },
     {
       "id": 12,
-      "name": "Envoy XL",
-      "typeId": 12,
-      "price": "$7.23"
+      "name": "Larissa Stirtle",
+      "email": "lstirtleb@yolasite.com",
+      "isStaff": false
     },
     {
       "id": 13,
-      "name": "530",
-      "typeId": 13,
-      "price": "$6.53"
+      "name": "Ignacius Breede",
+      "email": "ibreedec@amazon.de",
+      "isStaff": false
     },
     {
       "id": 14,
-      "name": "Land Cruiser",
-      "typeId": 14,
-      "price": "$5.45"
+      "name": "Urbain Shergold",
+      "email": "ushergoldd@independent.co.uk",
+      "isStaff": false
     },
     {
       "id": 15,
-      "name": "Cougar",
-      "typeId": 15,
-      "price": "$2.56"
+      "name": "Rayshell Saggs",
+      "email": "rsaggse@wsj.com",
+      "isStaff": false
     },
     {
       "id": 16,
-      "name": "Rio",
-      "typeId": 16,
-      "price": "$1.38"
+      "name": "Fonsie Leman",
+      "email": "flemanf@delicious.com",
+      "isStaff": false
     },
     {
       "id": 17,
-      "name": "Nitro",
-      "typeId": 17,
-      "price": "$9.32"
+      "name": "Tybie Trencher",
+      "email": "ttrencherg@51.la",
+      "isStaff": false
     },
     {
       "id": 18,
-      "name": "Entourage",
-      "typeId": 18,
-      "price": "$2.79"
+      "name": "Hagan Trousdell",
+      "email": "htrousdellh@ning.com",
+      "isStaff": false
     },
     {
       "id": 19,
-      "name": "Ram 50",
-      "typeId": 19,
-      "price": "$9.84"
+      "name": "Deane Pomfrett",
+      "email": "dpomfretti@pagesperso-orange.fr",
+      "isStaff": false
     },
     {
       "id": 20,
-      "name": "Elantra",
-      "typeId": 20,
-      "price": "$6.53"
+      "name": "Nat Lamplugh",
+      "email": "nlamplughj@webeden.co.uk",
+      "isStaff": false
+    },
+    {
+      "id": 21,
+      "name": "Heall Robion",
+      "email": "hrobionk@examiner.com",
+      "isStaff": false
+    },
+    {
+      "id": 22,
+      "name": "Darrin Schoenfisch",
+      "email": "dschoenfischl@cbc.ca",
+      "isStaff": false
+    },
+    {
+      "id": 23,
+      "name": "Bren de Castelain",
+      "email": "bdem@creativecommons.org",
+      "isStaff": false
+    },
+    {
+      "id": 24,
+      "name": "Jermayne Jillitt",
+      "email": "jjillittn@addthis.com",
+      "isStaff": false
+    },
+    {
+      "id": 25,
+      "name": "Geri Sleeford",
+      "email": "gsleefordo@google.com.au",
+      "isStaff": false
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "address": "2120 Tony Way",
+      "squareFt": 1
+    },
+    {
+      "id": 2,
+      "address": "2 Mockingbird Drive",
+      "squareFt": 2
+    },
+    {
+      "id": 3,
+      "address": "6576 Farwell Crossing",
+      "squareFt": 3
     }
   ],
   "employees": [
@@ -330,6 +305,218 @@
       "id": 20,
       "userId": 20,
       "loyaltyNumber": "54-6607864"
+    }
+  ],  
+  "products": [
+    {
+      "id": 1,
+      "name": "Corsica",
+      "typeId": 1,
+      "price": "$0.78"
+    },
+    {
+      "id": 2,
+      "name": "Gemini",
+      "typeId": 2,
+      "price": "$4.05"
+    },
+    {
+      "id": 3,
+      "name": "Cooper",
+      "typeId": 3,
+      "price": "$4.01"
+    },
+    {
+      "id": 4,
+      "name": "Suburban 1500",
+      "typeId": 4,
+      "price": "$0.06"
+    },
+    {
+      "id": 5,
+      "name": "M Roadster",
+      "typeId": 5,
+      "price": "$2.15"
+    },
+    {
+      "id": 6,
+      "name": "G-Class",
+      "typeId": 6,
+      "price": "$2.49"
+    },
+    {
+      "id": 7,
+      "name": "Villager",
+      "typeId": 7,
+      "price": "$5.75"
+    },
+    {
+      "id": 8,
+      "name": "GTO",
+      "typeId": 8,
+      "price": "$9.79"
+    },
+    {
+      "id": 9,
+      "name": "MX-5",
+      "typeId": 9,
+      "price": "$4.64"
+    },
+    {
+      "id": 10,
+      "name": "900",
+      "typeId": 10,
+      "price": "$0.44"
+    },
+    {
+      "id": 11,
+      "name": "Suburban 2500",
+      "typeId": 11,
+      "price": "$1.75"
+    },
+    {
+      "id": 12,
+      "name": "Envoy XL",
+      "typeId": 12,
+      "price": "$7.23"
+    },
+    {
+      "id": 13,
+      "name": "530",
+      "typeId": 13,
+      "price": "$6.53"
+    },
+    {
+      "id": 14,
+      "name": "Land Cruiser",
+      "typeId": 14,
+      "price": "$5.45"
+    },
+    {
+      "id": 15,
+      "name": "Cougar",
+      "typeId": 15,
+      "price": "$2.56"
+    },
+    {
+      "id": 16,
+      "name": "Rio",
+      "typeId": 16,
+      "price": "$1.38"
+    },
+    {
+      "id": 17,
+      "name": "Nitro",
+      "typeId": 17,
+      "price": "$9.32"
+    },
+    {
+      "id": 18,
+      "name": "Entourage",
+      "typeId": 18,
+      "price": "$2.79"
+    },
+    {
+      "id": 19,
+      "name": "Ram 50",
+      "typeId": 19,
+      "price": "$9.84"
+    },
+    {
+      "id": 20,
+      "name": "Elantra",
+      "typeId": 20,
+      "price": "$6.53"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "Gatorade---Xfactor-Berry"
+    },
+    {
+      "id": 2,
+      "name": "Ecolab - Hobart Washarm End Cap"
+    },
+    {
+      "id": 3,
+      "name": "Magnotta - Bel Paese White"
+    },
+    {
+      "id": 4,
+      "name": "Wine - Fontanafredda Barolo"
+    }
+  ],  
+  "purchases": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 1,
+      "quantity ": 1,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "productId": 2,
+      "quantity ": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "productId": 3,
+      "quantity ": 3,
+      "locationId": 3
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "productId": 4,
+      "quantity ": 4,
+      "locationId": 4
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "productId": 5,
+      "quantity ": 5,
+      "locationId": 5
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "productId": 6,
+      "quantity ": 6,
+      "locationId": 6
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "productId": 7,
+      "quantity ": 7,
+      "locationId": 7
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "productId": 8,
+      "quantity ": 8,
+      "locationId": 8
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "productId": 9,
+      "quantity ": 9,
+      "locationId": 9
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "productId": 10,
+      "quantity ": 10,
+      "locationId": 10
     }
   ]
 }
