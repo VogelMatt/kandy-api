@@ -229,5 +229,107 @@
       "payRate": "$5.49",
       "locationId": 5
     }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "userId": 1,
+      "loyaltyNumber": "79-2129111"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "loyaltyNumber": "24-3872924"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "loyaltyNumber": "86-8221423"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "loyaltyNumber": "52-1281363"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "loyaltyNumber": "77-4366700"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "loyaltyNumber": "65-9107873"
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "loyaltyNumber": "65-4613992"
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "loyaltyNumber": "77-6491961"
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "loyaltyNumber": "78-1159950"
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "loyaltyNumber": "47-7882772"
+    },
+    {
+      "id": 11,
+      "userId": 11,
+      "loyaltyNumber": "26-3364364"
+    },
+    {
+      "id": 12,
+      "userId": 12,
+      "loyaltyNumber": "72-6905859"
+    },
+    {
+      "id": 13,
+      "userId": 13,
+      "loyaltyNumber": "32-8837027"
+    },
+    {
+      "id": 14,
+      "userId": 14,
+      "loyaltyNumber": "99-9577901"
+    },
+    {
+      "id": 15,
+      "userId": 15,
+      "loyaltyNumber": "20-3690269"
+    },
+    {
+      "id": 16,
+      "userId": 16,
+      "loyaltyNumber": "06-3295854"
+    },
+    {
+      "id": 17,
+      "userId": 17,
+      "loyaltyNumber": "02-9428649"
+    },
+    {
+      "id": 18,
+      "userId": 18,
+      "loyaltyNumber": "61-2293892"
+    },
+    {
+      "id": 19,
+      "userId": 19,
+      "loyaltyNumber": "35-1703793"
+    },
+    {
+      "id": 20,
+      "userId": 20,
+      "loyaltyNumber": "54-6607864"
+    }
   ]
 }
